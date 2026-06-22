@@ -32,7 +32,7 @@ Abdul Mannan  //  abdulmannanansa-max
 ┌─────────────────────────────────────────────────────────────────┐
 │  Role        →  B.E. EXCS @ Vidyalankar Institute of Tech       │
 │  Build Year  →  Class of 2028  (Year 3 / 4)                     │
-│  SGPA        →  9.4+  [ Semester IV: 10.0 / 10.0 ██████████ ]  │
+│  SGPA        →  9.4+  [ Semester IV: 10.0 / 10.0 ██████████ ]   │
 │  Status      →  Actively seeking SWE / Cloud internships        │
 │  Stack       →  Full-Stack · Cloud · IoT · Mobile               │
 └─────────────────────────────────────────────────────────────────┘
