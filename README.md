@@ -6,8 +6,9 @@
 
 <!-- ANIMATED BANNER — capsule-render with a dark terminal wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=AM_OS%20v3.0%20%E2%80%94%20BOOT%20SEQUENCE&fontSize=28&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=Electronics%20%26%20Computer%20Science%20%2F%2F%20Mumbai%2C%20India&descAlignY=85&descSize=13&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f2e,100:0d1117&amp;height=120&amp;section=header&amp;text=AM_OS%20v3.0%20%E2%80%94%20BOOT%20SEQUENCE&amp;fontSize=28&amp;fontColor=58a6ff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=Electronics%20%26%20Computer%20Science%20%2F%2F%20Mumbai%2C%20India&amp;descAlignY=85&amp;descSize=13&amp;descColor=8b949e" width="100%" />
 </div>
+
 
 <!-- ANIMATED TYPING HEADER -->
 <div align="center">
