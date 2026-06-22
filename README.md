@@ -6,14 +6,12 @@
 
 <!-- ANIMATED BANNER — capsule-render with a dark terminal wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f2e,100:0d1117&amp;height=120&amp;section=header&amp;text=AM_OS%20v3.0%20%E2%80%94%20BOOT%20SEQUENCE&amp;fontSize=28&amp;fontColor=58a6ff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=Electronics%20%26%20Computer%20Science%20%2F%2F%20Mumbai%2C%20India&amp;descAlignY=85&amp;descSize=13&amp;descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:7b2ff7,100:00d2ff&height=100&section=header&text=AM_OS%20v3.0%20%E2%80%94%20uptime%3A%203%20years%20%E2%80%94%20next%20release%3A%202028&fontSize=13&fontColor=e0e0e0&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 
-<!-- ANIMATED TYPING HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami+%E2%86%92+Abdul+Mannan+%2F%2F+abdulmannanansa-max;%24+uptime+%E2%86%92+3+years+%7C+next+release%3A+2028" alt="Typing SVG" />
-</div>
+<!-- ANIMATED TYPING HEADER --> 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami+%E2%86%92+Abdul+Mannan+%2F%2F+abdulmannanansa-max%3B%24+uptime+%E2%86%92+3+years+%7C+next+release%3A+2028" alt="Typing SVG" /> </div>
 
 <br/>
 
@@ -189,5 +187,5 @@ $ curl https://connect.am/api/reach-out
 
 <!-- ANIMATED FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer&text=AM_OS%20v3.0%20%E2%80%94%20uptime%3A%203%20years%20%E2%80%94%20next%20release%3A%202028&fontSize=13&fontColor=8b949e&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:7b2ff7,100:00d2ff&height=100&section=footer&text=AM_OS%20v3.0%20%E2%80%94%20uptime%3A%203%20years%20%E2%80%94%20next%20release%3A%202028&fontSize=13&fontColor=e0e0e0&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
