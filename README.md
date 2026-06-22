@@ -108,10 +108,11 @@ $ grep -r "achievements" ~/logs/
 </div>
 
 ```
-[2026]  IdeaSphere Hackathon ......... 🥇 1st Place  (National)
-[2026]  IdeaSphere Hackathon ......... 🌐 International Finalist
+[2026]  IdeaSphere ......... 🥇 1st Place (IEEE VIT)
+[2026]  Tech-Ideathon (VIT Mauritius) ......... 🌐 International Finalist
 [2026]  CDAC Juhu Cloud Course ........ AWS · GCP · Azure Certified
-[2025]  NPTEL Java .................... Elite Certification
+[2025]  Ideathon (VIT).................... 1st Place 
+[2025]  NPTEL Java Programming.................... Elite Certification
 [SEM4]  SGPA .......................... 10.0 / 10.0  ← perfect score
 ```
 
