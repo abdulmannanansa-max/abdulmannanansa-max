@@ -70,18 +70,18 @@ $ ls -la ~/projects/production/
 
 &nbsp;
 
-**`/projects/ResQ-Link`** &nbsp;·&nbsp; [Live ↗](https://github.com/abdulmannanansa-max)
+**`/projects/ResQ-Link`** &nbsp;·&nbsp; [Live ↗]((https://stalwart-frangollo-2fcb10.netlify.app/))
 ```
   Emergency alert platform — React · Node.js · MySQL
   Real-time SOS system with live deployment.
   Status: DEPLOYED  ████████████████████  100%
 ```
 
-**`/projects/Price-Drop-Alert`**
+**`/projects/Price-Drop-Alert`** [Live ↗]((https://abdulmannanansa-max.github.io/Cloud_Based_Price_Drop_Alert_System/))
 ```
   AWS Serverless pipeline — API Gateway → Lambda → DynamoDB → SNS/SES
   Event-driven price monitoring with EventBridge scheduling.
-  Status: BUILT     ████████████████████  100%
+  Status: DEPLOYED     ████████████████████  100%
 ```
 
 **`/projects/EduQuest-Rural`**
